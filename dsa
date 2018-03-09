@@ -1,0 +1,5 @@
+<form id="login-form" class="modal">
+  ...
+</form>
+
+<a href="#login-form" rel="modal:open">Login</a>
